@@ -1,0 +1,10 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image:url("ATJI9834.JPG");
+    background-repeat:repeat;
+}
+
+#board {
+    background-image: url("flappybirdbg.png");
+}
